@@ -17,11 +17,11 @@ void f()
 void o(){
     printf("\n");
     printf("███████      \n");
-    printf("██           ██████     \n");
-    printf("███████    ██      ██\n");
-    printf("██         ██      ██\n");
-    printf("██         ██      ██\n");
-    printf("██           ██████\n");
+    printf("██            ██████     \n");
+    printf("███████     ██      ██\n");
+    printf("██          ██      ██\n");
+    printf("██          ██      ██\n");
+    printf("██            ██████\n");
     printf("\n");
     return;
 }
@@ -65,9 +65,9 @@ void s(){
 void ss(){
     printf("\n");
     printf("                                                            \n");
-    printf("                                                    ██████       \n");
-    printf("                                                  ██ \n");
-    printf("                                                    ███████\n");
+    printf("                                                      ███████       \n");
+    printf("                                                    ██ \n");
+    printf("                                                      ██████\n");
     printf("                                                           ██\n");
     printf("                                                    ███████\n");
     printf("\n");
